@@ -1,0 +1,13 @@
+{
+	"ownerid": "@204959291742879744>8853",
+    "prefix": "!",
+    "token": "MzQyMTIxODY4NjYyMTQ1MDI1.DGM9qg.HZy6Bix5o_yhWwtYZ91X12fR2zA",
+    "defaultSettings": {
+        "adminRole": "Administrator",
+        "enableWelcome": false,
+        "welcomeMessage": "Say hello to {{user}}, everyone!",
+        "useEmbeds": true,
+		"timezone": "America/Detroit",
+        "announceChan": "",
+	}
+}
